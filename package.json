@@ -1,0 +1,11 @@
+{
+  "name": "domojs-bluetooth",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npenin/domojs-bluetooth.git"
+  },
+  "dependencies": {
+    "noble": "^1.2.0"
+  }
+}
