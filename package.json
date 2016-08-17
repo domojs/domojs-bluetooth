@@ -6,6 +6,6 @@
     "url": "https://github.com/npenin/domojs-bluetooth.git"
   },
   "dependencies": {
-    "noble": "^1.2.0"
+    "noble": "^1.6.0"
   }
 }
