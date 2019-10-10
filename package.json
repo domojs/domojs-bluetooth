@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "noble": "^1.6.0",
-    "snyk": "^1.41.1"
+    "snyk": "^1.234.0"
   },
   "scripts": {
     "snyk-protect": "snyk protect",
